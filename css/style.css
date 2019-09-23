@@ -28,3 +28,18 @@ button {
   border-radius: 10px;
   box-shadow: 0 0 8px rgba(0, 0, 0, .4);
 }
+.control {
+  margin-bottom: 3em;
+}
+label {
+  margin-bottom: .5em;
+  display: block;
+}
+.required {
+  margin-left: .3em;
+  color: #f33;
+  font-size: .9em;
+  padding: 3px;
+  background-color: #fee;
+  font-weight: bold;
+}
